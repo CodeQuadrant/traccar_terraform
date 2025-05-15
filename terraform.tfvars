@@ -1,0 +1,11 @@
+tenancy_ocid = "ocid1.tenancy.oc1..aaaaaaaaljmfp6w727z3a2rtzpcvwkrjohtfs5watz7fihzclop563gpat5q"
+region = "us-phoenix-1"
+compartment_ocid = "ocid1.compartment.oc1..aaaaaaaa5wtauz5vesyvs7dhub7y2njpjj3y4unxo3y4dy7ncvsllcgo6m5q"
+ocir_user_name = "oracleidentitycloudservice/tim.schmuhl@foundmyride.com"
+ocir_user_password = "1.B3PW}SL7v1;GOtCTld"
+
+user_ocid            = "ocid1.user.oc1..aaaaaaaa7pavgf3wjhxbt2jnmnlpnycqlgfsxxji44nxmuclh4putyaeffhq"
+availability_domain  = "fHWk:PHX-AD-1"
+subnet_ocid          = "ocid1.subnet.oc1.phx.aaaaaaaavovwq2tnhxvg4vlhhs4yal6zuw63zopbvu6wkhizlh7mgk22f2na"
+ssh_public_key_file  = "/home/ubuntu/.ssh/id_rsa.pub"
+instance_image_ocid  = "ocid1.image.oc1.phx.aaaaaaaaeaxz5ggdjvmc3rlhxmosc6nhyrux7aykriikqomoevj4z5zjy67a"
